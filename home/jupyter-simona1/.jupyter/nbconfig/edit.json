@@ -1,0 +1,10 @@
+{
+  "Editor": {
+    "codemirror_options": {
+      "lineNumbers": false
+    },
+    "file_extension_modes": {
+      ".html": "PHP"
+    }
+  }
+}

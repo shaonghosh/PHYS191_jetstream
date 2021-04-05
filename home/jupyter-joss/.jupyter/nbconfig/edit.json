@@ -1,0 +1,13 @@
+{
+  "Editor": {
+    "file_extension_modes": {
+      ".gz": "APL",
+      ".txt": "Markdown"
+    },
+    "codemirror_options": {
+      "lineNumbers": false,
+      "vimMode": false,
+      "keyMap": "default"
+    }
+  }
+}
